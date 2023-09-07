@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Vikoba</string>
+    <string name="welcome_text">Karibu,</string>
+
+    <!--    HEADING STRINGS-->
+    <string name="involved_text">Vikoba Unavyohusishwa</string>
+    <string name="kikoba_near_text">Vikoba karibu nawe</string>
+    <string name="add_privileges">Ongeza Upendeleo</string>
+    <string name="loan_history_text">Madeni yangu yote</string>
+    <string name="loan_application_form_text">Fomu ya maombi ya mkopo</string>
+    <string name="member_text">Wanachama</string>
+    <string name="payment_text">Payment</string>
+    <string name="all_request_text">Maombi yote</string>
+    <string name="my_shares_text">Historia ya Hisa zangu</string>
+    <string name="group_creation_text">Fungua kikundi cha kikoba</string>
+    <string name="secretary_text">Katibu Dashibodi</string>
+    <string name="accoutant_text">Mwasibu Dashibodi</string>
+    <string name="click_button_text">Bonyeza kitufe chini kufungua kikundi</string>
+    <string name="group_information_text">Taarifa za kikundi cha kikoba</string>
+    <string name="admin_information_text">Taarifa za Kiongozi wa kikoba</string>
+
+
+    <!--    MESSAGE TEXT-->
+    <string name="successfully_text">Ombi lako tayari limefanikiwa kutumwa</string>
+    <string name="error_text">Hakuna Taarifa bado</string>
+    <string name="feedback_text">Subiri Mrejesho wako</string>
+
+    <!--    ACTIVITY NAME STRINGS-->
+    <string name="account_text">Akaunti</string>
+    <string name="notification_text">Taarifa</string>
+    <string name="search_text">Tafuta</string>
+
+
+    <!--    CARD NAME STRINGS-->
+    <string name="stock_text">Hisa</string>
+    <string name="chat_text">Kuzungumza</string>
+    <string name="loan_text">Madeni</string>
+    <string name="loan_all_text">Madeni yote</string>
+    <string name="manage_group_text">Kusimamia Kundi</string>
+    <string name="manage_member_text">Kusimamia wanachama</string>
+    <string name="manage_loan_text">Kusimamia madeni</string>
+    <string name="manage_debts_text">Kusimamia madeni</string>
+
+
+    <!--    BUTTON STRINGS-->
+    <string name="view_all_text">Tazama zote</string>
+    <string name="pay_text">Pay</string>
+    <string name="registration_text">Jisajili</string>
+    <string name="create_text">Fungua</string>
+    <string name="okay_text">OK</string>
+    <string name="view_text">Tazama</string>
+    <string name="cancel_text">Ghairi</string>
+    <string name="accept_loan_text">kubali Deni</string>
+    <string name="Register_group_text">Sajili kikundi</string>
+    <string name="request_text">Maombi</string>
+    <string name="pay_share_text">Lipa Hisa</string>
+    <string name="request_loan_text">Omba Mkopo</string>
+    <string name="add_text">Ongeza</string>
+    <string name="login_text">Ingia</string>
+
+<!--   Form String -->
+    <string name="dont_have_account_text">Una Akaunti, Bonyeza hapa</string>
+    <string name="forget_password_text">Emesahau Nywila</string>
+    <string name="member_signup_text">Fungua Akaunti</string>
+    
+<!--    ROLES STRINGS-->
+
+    <!--    ROLES STRINGS-->
+    <string name="privilege_text">Kutoa Upendeleo</string>
+
+    <!--    ROUTES STRINGS -->
+    <string name="splash">Splash</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="create_kicoba">Fungua Kicoba</string>
+    <string name="notification_kicoba">Notification</string>
+    <string name="kikoba_dashboard">Kikoba Dashboard</string>
+    <string name="manage_members">Manage Member</string>
+    <string name="invited_kikoba">Invited Kikoba Information</string>
+    <string name="kikoba_members">Kikoba members</string>
+    <string name="kikoba_profile">Kikoba profile</string>
+    <string name="kikoba_leaders">Viongozi wa kikoba</string>
+    <string name="manage_leaders">Ratibu uongozi</string>
+    <string name="loan_form">Omba mkopo</string>
+    <string name="leaders">Viongozi</string>
+    <string name="my_loans">Mikopo yangu</string>
+    <string name="manage_loans">Ratibu mikopo</string>
+    <string name="members_loans">Mikopo ya wanakikundi</string>
+    <string name="loan_info">Taarifa za mkopo.</string>
+    <string name="approve_loan">Idhinisha mikopo.</string>
+    <string name="transact_loan">Lipa mikopo.</string>
+    <string name="buy_share">Nunua hisa.</string>
+    <string name="members_share">Hisa za wanakikundi.</string>
+    <string name="my_shares">Hisa zangu.</string>
+    <string name="about_kikoba">Kuhusu kikoba.</string>
+    <string name="kikoba_chat">Kikoba chat.</string>
+    <string name="pay_debt">Lipa deni.</string>
+    <string name="my_debts">Madeni yangu.</string>
+    <string name="all_debts">Madeni ya wanakikundi.</string>
+
+    <!--    SHOULD BE REMOVED AFTER TEST -->
+
+    <string name="order_cupcakes">Order Cupcakes</string>
+    <string name="one_cupcake">One Cupcake</string>
+    <string name="six_cupcakes">Six Cupcakes</string>
+    <string name="twelve_cupcakes">Twelve Cupcakes</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Coffee</string>
+    <string name="special_flavor">Special Flavor</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="choose_pickup_date">Choose Pickup Date</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="quantity">Quantity</string>
+    <string name="flavor">Flavor</string>
+    <string name="pickup_date">Pickup date</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+    <string name="order_details">Quantity: %1$s \nFlavor: %2$s \nPickup date: %3$s \nTotal: %4$s \n\nThank you!</string>
+    <string name="back_button">Back</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d cupcake</item>
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+
+</resources>
